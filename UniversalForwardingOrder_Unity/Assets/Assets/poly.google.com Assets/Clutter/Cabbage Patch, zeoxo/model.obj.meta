@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 6fa637531407db34fa09ada7afb2ac37
+timeCreated: 1540534377
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: mesh1150490107
+    100002: mesh1197878384
+    100004: mesh1562995902
+    100006: mesh1564314910
+    100008: mesh1983280980
+    100010: mesh241949639
+    100012: mesh747221826
+    100014: mesh997607540
+    100016: //RootNode
+    400000: mesh1150490107
+    400002: mesh1197878384
+    400004: mesh1562995902
+    400006: mesh1564314910
+    400008: mesh1983280980
+    400010: mesh241949639
+    400012: mesh747221826
+    400014: mesh997607540
+    400016: //RootNode
+    2300000: mesh1150490107
+    2300002: mesh1197878384
+    2300004: mesh1562995902
+    2300006: mesh1564314910
+    2300008: mesh1983280980
+    2300010: mesh241949639
+    2300012: mesh747221826
+    2300014: mesh997607540
+    3300000: mesh1150490107
+    3300002: mesh1197878384
+    3300004: mesh1562995902
+    3300006: mesh1564314910
+    3300008: mesh1983280980
+    3300010: mesh241949639
+    3300012: mesh747221826
+    3300014: mesh997607540
+    4300000: mesh1150490107
+    4300002: mesh1197878384
+    4300004: mesh1562995902
+    4300006: mesh1564314910
+    4300008: mesh1983280980
+    4300010: mesh241949639
+    4300012: mesh747221826
+    4300014: mesh997607540
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat11
+    second: {fileID: 2100000, guid: 2c9a705e738049647b30428fca6dcf72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat19
+    second: {fileID: 2100000, guid: 78ef81db8dde3f54aa4d679ffd7128dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat20
+    second: {fileID: 2100000, guid: 5fa37e309f9f3f14d9fbfaa79fa08b9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat23
+    second: {fileID: 2100000, guid: 89830c69fa216c24d9140cc7b8384163, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
